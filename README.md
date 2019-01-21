@@ -1,6 +1,6 @@
 # Osa 0
 ## 4
-![](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=c2VsYWluLT5wYWx2ZWxpbjogSFRUUCBQT1NUIGh0dHBzOi8vZnVsbHN0YWNrLWV4YW1wbGVhcHAuaGVyb2t1YXBwLmNvbS9uZXdfbm90ZQoK&s=napkin)
+![](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=c2VsYWluLT5wYWx2ZWxpbjogSFRUUCBQT1NUIGh0dHBzOi8vZnVsbHN0YWNrLWV4YW1wbGVhcHAuaGVyb2t1YXBwLmNvbS9uZXdfbm90ZQoAQAgtLT4AVQY6IDMwMiBGT1VORCwgdmllIC9ub3RlczppaW4gdGFrYXMKCg&s=qsd)
 
 ## 5 
 ![](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=Y2xpZW50LT5zZXJ2ZXI6IEhUVFAgR0VUIGh0dHBzOi8vZnVsbHN0YWNrLWV4YW1wbGVhcHAuaGVyb2t1YXBwLmNvbS9zcGEKADoGLS0-AEsGOiBzcGEKABlEbWFpbi5jc3MAUBIAEQkAfUcuagBSEwARBwCBY0RkYXRhLmpzb24AghsSABEKCg&s=napkin)
